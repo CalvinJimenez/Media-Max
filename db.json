@@ -1,0 +1,160 @@
+{
+  "media": [
+    {
+      "id": 1,
+      "title": "Django Unchained",
+      "media_type": "Movie",
+      "seasons": null,
+      "image": "https://m.media-amazon.com/images/I/51dNfU53lNL.jpg",
+      "date": 2012,
+      "services": "Amazon Instant Video, iTunes, Google Play, and Vudu",
+      "rating": 8.7,
+      "runtime": 165,
+      "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi."
+    },
+    {
+      "id": 2,
+      "title": "The Promised Neverland",
+      "media_type": "Series",
+      "seasons": "2",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwYjYyZDgtMTQ3My00YTI4LThmZTUtZmU1MjllOWRlOTdhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+      "date": 2019,
+      "services": "Crunchyroll, Hulu, Prime Video, Fuji TV",
+      "rating": 7.8,
+      "runtime": 23,
+      "description": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their \"Mama,\" Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage — a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family... never to be heard from again.\n\nHowever, the three oldest siblings have their suspicions about what is actually happening at the orphanage, and they are about to discover the cruel fate that awaits the children living at Grace Field, including the twisted nature of their beloved Mama."
+    },
+    {
+      "id": 3,
+      "title": "The Witcher",
+      "media_type": "Series",
+      "seasons": 2,
+      "image": "https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "date": 2019,
+      "services": "Netflix",
+      "rating": 8.2,
+      "runtime": 60,
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts."
+    },
+    {
+      "id": 4,
+      "title": "JoJo's Bizarre Adventure",
+      "media_type": "Series",
+      "seasons": 6,
+      "image": "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2021/04/JoJos-Bizzare-Adventure-Stone-Ocean-KV-2.jpg?resize=696%2C984&ssl=1",
+      "date": 2012,
+      "services": "Netflix",
+      "rating": 8.4,
+      "runtime": 24,
+      "description": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers."
+    },
+    {
+      "id": 5,
+      "title": "Banana Fish",
+      "media_type": "Series",
+      "seasons": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyMjFjNDUtMzg1OC00ZThiLWExYjctNGYzN2ZhYWUxOWZlXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_FMjpg_UX1000_.jpg",
+      "date": 2018,
+      "services": "Prime Video",
+      "rating": 8.6,
+      "runtime": 23,
+      "description": "Nature made Ash Lynx beautiful; nurture made him a cold ruthless killer. A runaway brought up as the adopted heir and sex toy of \"Papa\" Dino Golzine, Ash, now at the rebellious age of seventeen, forsakes the kingdom held out by the devil who raised him. But the hideous secret that drove Ash's older brother mad in Vietnam has suddenly fallen into Papa's insatiably ambitious hands-and it's exactly the wrong time for Eiji Okamura, a pure-hearted young photographer from Japan, to make Ash Lynx's acquaintance..."
+    },
+    {
+      "id": 6,
+      "title": "Chainsaw Man",
+      "media_type": "Series",
+      "seasons": 1,
+      "image": "https://pbs.twimg.com/media/FY0qr0pXoAENSub.jpg",
+      "date": 2022,
+      "services": "Hulu, Crunchyroll",
+      "rating": 8.8,
+      "runtime": 24,
+      "description": "Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza's pockets. All Denji can do is dream of a good, simple life: one with delicious food and a beautiful girlfriend by his side. But an act of greedy betrayal by the yakuza leads to Denji's brutal, untimely death, crushing all hope of him ever achieving happiness. Remarkably, an old contract allows Pochita to merge with the deceased Denji and bestow devil powers on him, changing him into a hybrid able to transform his body parts into chainsaws. Because Denji's new abilities pose a significant risk to society, the Public Safety Bureau's elite devil hunter Makima takes him in, letting him live as long as he obeys her command. Guided by the promise of a content life alongside an attractive woman, Denji devotes everything and fights with all his might to make his naive dreams a reality."
+    },
+    {
+      "id": 7,
+      "title": "Thor: Ragnarok",
+      "media_type": "Movie",
+      "seasons": null,
+      "image": "https://m.media-amazon.com/images/I/A1HBBNzBdxL.jpg",
+      "date": 2017,
+      "services": "Disney Plus",
+      "rating": 8.5,
+      "runtime": 170,
+      "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela."
+    },
+    {
+      "id": 8,
+      "title": "Bleach",
+      "media_type": "Series",
+      "seasons": 16,
+      "image": "   https://preview.redd.it/aphu74h5y3g91.jpg?auto=webp&s=a72a56577d31ccd8690a9b7dafa523af3c9e8425",
+      "date": 2004,
+      "services": "Hulu, Crunchyroll, Disney Plus",
+      "rating": 8.5,
+      "runtime": 24,
+      "description": "High school student Ichigo Kurosaki, who has the ability to see ghosts, gains soul reaper powers from Rukia Kuchiki and sets out to save the world from Hollows."
+    },
+    {
+      "id": 46,
+      "title": "Doctor Who?",
+      "media_type": "Series",
+      "seasons": 13,
+      "image": "https://i0.wp.com/www.blogtorwho.com/wp-content/uploads/2019/10/2fsmv0000001000.jpg?resize=1068%2C1621&ssl=1",
+      "date": 2005,
+      "services": "HBO Max",
+      "rating": 9.1,
+      "runtime": 45,
+      "description": "An eccentric yet compassionate extraterrestrial Time Lord zips through time and space to solve problems and battle injustice across the universe, traveling via the TARDIS (Time and Relative Dimensions in Space), which is his old and occasionally unreliable spaceship that resembles a blue police phone box (but changes its appearance depending on its surroundings) and is much, much larger inside than outside."
+    },
+    {
+      "id": 47,
+      "title": "Severance",
+      "media_type": "Series",
+      "seasons": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+      "date": 2022,
+      "services": "Apple TV",
+      "rating": 9.7,
+      "runtime": 45,
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs."
+    },
+    {
+      "id": 48,
+      "title": "Stranger Things",
+      "media_type": "Series",
+      "seasons": 4,
+      "image": "https://i5.walmartimages.com/asr/368d84bf-d1cb-4693-b946-548d5467adda.ddf80cdfa7fd53d3ddc48ce58d7e3a53.jpeg",
+      "date": 2016,
+      "services": "Netflix",
+      "rating": 9.6,
+      "runtime": 70,
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries."
+    },
+    {
+      "id": 49,
+      "title": "Enola Holmes",
+      "media_type": "Movie",
+      "seasons": null,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Enola_Holmes_poster.jpeg?20200928053656",
+      "date": 2020,
+      "services": "Netflix",
+      "rating": 9.1,
+      "runtime": 123,
+      "description": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord."
+    },
+    {
+      "id": 50,
+      "title": "Enola Holmes 2",
+      "media_type": "Movie",
+      "seasons": null,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Enola_Holmes_2_poster.png/220px-Enola_Holmes_2_poster.png",
+      "date": 2022,
+      "services": "Netflix",
+      "rating": 9.3,
+      "runtime": 129,
+      "description": "Enola Holmes takes on her first case as a detective, but to unravel the mystery of a missing girl, she'll need some help from friends -- and brother Sherlock."
+    }
+  ]
+}
