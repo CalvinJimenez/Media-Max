@@ -46,6 +46,9 @@ function App() {
         <Route exact path="/favorites">
           <MediaFavorites myFavs={myFavs} />
         </Route>
+        <Route exact path="/plantowatch">
+          {/* <MediaFavorites myFavs={myFavs} /> */}
+        </Route>
       </Switch>
     </div>
   );

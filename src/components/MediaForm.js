@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const URL = "http://localhost:4000/media";
+const URL = "http://localhost:3000/media";
 
 function MediaForm({ addNewMedia }) {
   const [title, setTitle] = useState("");

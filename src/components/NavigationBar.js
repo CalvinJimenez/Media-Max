@@ -24,6 +24,9 @@ function NavigationBar({ searchText, setSearchText }) {
               <Nav.Link as={Link} to="/favorites">
                 Favorites
               </Nav.Link>
+              <Nav.Link as={Link} to="/plantowatch">
+                Plan To Watch
+              </Nav.Link>
             </Nav>
             <Form>
               <SearchBar
